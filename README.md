@@ -33,7 +33,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <div align="center">
-<a href="www.linkedin.com/in/innovsn26" target="_blank">
+<a href="https://www.linkedin.com/in/innovsn26" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://www.instagram.com/innovsn_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
